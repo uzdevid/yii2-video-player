@@ -1,0 +1,21 @@
+{
+    "name": "uzdevid/yii2-video-player",
+    "description": "HTML Video Player",
+    "type": "yii2-extension",
+    "keywords": ["yii2"," html video player"," library"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ibragimov Diyorbek",
+            "email": "uzdevid@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\uzdevid\\videoPlayer\\": ""
+        }
+    }
+}
